@@ -1,0 +1,54 @@
+body {
+	background: #E4EEF2;
+	color: #333534;
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFFFFFFF', endColorstr='#FFE4EEF2');
+	background-image: -webkit-linear-gradient( #FFF, #E4EEF2 300px, #E4EEF2 100%);
+	background-image: linear-gradient( #FFF, #E4EEF2 300px, #E4EEF2 100%);
+}
+#container {
+	background-color: #FFF !important;
+}
+
+#header-wrapper {
+	background: #00AFF0 url(images/bg3.jpg) no-repeat top center;
+}
+
+.page-heading > strong {
+	background-color: #FFF !important;
+}
+
+/*===========================================*/
+/*	DESKTOP LAYOUT 
+/*===========================================*/
+@media only screen and (min-width: 1200px) {
+
+}
+@media only screen and (min-width: 980px) {
+
+}
+@media only screen and (min-width: 980px) and (max-width: 1199px) {
+
+}
+
+/*===========================================*/
+/*	TABLET LAYOUT 
+/*===========================================*/
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/*===========================================*/
+/*	MOBILE LAYOUT 
+/*===========================================*/
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+
+}
+@media only screen and (min-width: 200px) and (max-width: 419px) {
+
+}
+@media only screen and (min-width: 420px) and (max-width: 599px) {
+
+}
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+	
+}
