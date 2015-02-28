@@ -9,7 +9,7 @@ $_['text_success']     = 'Hoàn tất: Bạn đã sửa xong đơn vị đo chi�
 $_['column_title']     = 'Tiêu đề';
 $_['column_unit']      = 'Viết tắt';
 $_['column_value']     = 'Giá trị';
-$_['column_action']    = 'Công việc';
+$_['column_action']    = 'Thao tác';
 
 // Entry
 $_['entry_title']      = 'Tiêu đề:';

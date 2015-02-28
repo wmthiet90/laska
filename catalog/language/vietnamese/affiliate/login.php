@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Heading 
 $_['heading_title']                 = 'Chương Trình đại lý';
 

@@ -14,7 +14,7 @@ $_['text_rename']      = 'Hoàn tất: Tập tin hoặc thư mục đã được
 // Entry
 $_['entry_folder']     = 'Thư mục mới:';
 $_['entry_move']       = 'Di chuyển:';
-$_['entry_copy']       = 'Sao:';
+$_['entry_copy']       = 'Sao chép:';
 $_['entry_rename']     = 'Sửa tên:';
 
 // Error
@@ -38,8 +38,8 @@ $_['error_permission'] = 'Cảnh báo: Quyền của bạn bị hạn chế!';
 // Button
 $_['button_folder']    = 'Thư mục mới';
 $_['button_delete']    = 'Xóa';
-$_['button_move']      = 'Chuyển';
-$_['button_copy']      = 'Sao';
+$_['button_move']      = 'Di chuyển';
+$_['button_copy']      = 'Sao chép';
 $_['button_rename']    = 'Sửa tên';
 $_['button_upload']    = 'Tải lên';
 $_['button_refresh']   = 'Làm tươi';

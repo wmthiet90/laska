@@ -7,7 +7,7 @@ $_['text_success']     = 'Hoàn tất: Bạn đã sửa xong Tình trạng kho h
 
 // Column
 $_['column_name']      = 'Tình trạng';
-$_['column_action']    = 'Công việc';
+$_['column_action']    = 'Thao tác';
 
 // Entry
 $_['entry_name']       = 'Tình trạng:';

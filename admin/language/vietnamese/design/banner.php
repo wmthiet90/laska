@@ -6,18 +6,20 @@ $_['heading_title']      = 'Banners';
 $_['text_success']       = 'Thành công: Bạn đã sửa đổi banners!';
 $_['text_default']       = 'Mặc định';
 $_['text_image_manager'] = 'Quản lý hình ảnh';
+$_['text_browse']        = 'Duyệt file';
+$_['text_clear']         = 'Xóa Ảnh';
 
 // Column
 $_['column_name']        = 'Tên Banner';
-$_['column_status']      = 'Trạng trạng';
-$_['column_action']      = 'Công việc';
+$_['column_status']      = 'Trạng thái';
+$_['column_action']      = 'Thao tác';
 
 // Entry
 $_['entry_name']         = 'Tên Banner:';
 $_['entry_title']        = 'Tiêu đề:';
 $_['entry_link']         = 'Liên kết';
 $_['entry_image']        = 'Hình ảnh:';
-$_['entry_status']       = 'Trạng trạng:';
+$_['entry_status']       = 'Trạng thái:';
 
 // Error
 $_['error_permission']   = 'Cảnh báo: Bạn không có quyền sửa đổi các banners!';

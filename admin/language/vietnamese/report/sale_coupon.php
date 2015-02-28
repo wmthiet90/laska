@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Coupon Report';
+$_['heading_title']    = 'Báo cáo mã giảm giá';
 
 // Column
-$_['column_name']      = 'Coupon Name';
-$_['column_code']      = 'Code';
-$_['column_orders']    = 'Orders';
-$_['column_total']     = 'Total';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Tên phiếu';
+$_['column_code']      = 'Mã';
+$_['column_orders']    = 'Đơn hàng';
+$_['column_total']     = 'Tổng cộng';
+$_['column_action']    = 'Thao tác';
 
 // Entry
-$_['entry_date_start'] = 'Date Start:';
-$_['entry_date_end']   = 'Date End:';
+$_['entry_date_start'] = 'Ngày bắt đầu:';
+$_['entry_date_end']   = 'Ngày kết thúc:';
 ?>

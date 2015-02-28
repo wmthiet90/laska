@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'PayPal Express (including Credit Cards and Debit Cards)';
+$_['text_title'] = 'PayPal Express (Bao gồm thẻ tín dụng và thẻ ghi nợ)';
 ?>

@@ -10,7 +10,7 @@ $_['column_title']         = 'Tiêu đề của tiền tệ';
 $_['column_code']          = 'Mã';
 $_['column_value']         = 'Giá trị';
 $_['column_date_modified'] = 'Cập nhật lần cuối';
-$_['column_action']        = 'Công việc';
+$_['column_action']        = 'Thao tác';
 
 // Entry
 $_['entry_title']          = 'Tiêu đề Tiền tệ:';

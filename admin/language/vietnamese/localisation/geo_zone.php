@@ -8,7 +8,7 @@ $_['text_success']       = 'Hoàn tất: Bạn đã sủa xong Vùng tính Thu�
 // Column
 $_['column_name']        = 'Tên vùng ';
 $_['column_description'] = 'Mô tả';
-$_['column_action']      = 'Công việc';
+$_['column_action']      = 'Thao tác';
 
 // Entry
 $_['entry_name']         = 'Tên vùng:';

@@ -4,7 +4,7 @@ $_['heading_title'] = 'Sử dụng điểm thưởng (Có %s)';
 
 // Text
 $_['text_reward']   = 'Điểm thưởng(%s):';
-$_['text_order_id'] = 'Order ID: #%s';
+$_['text_order_id'] = 'Đơn hàng ID: #%s';
 $_['text_success']  = 'Thành công: Điểm thưởng của bạn đã được sử dụng!';
 
 // Entry

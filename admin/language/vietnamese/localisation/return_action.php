@@ -7,7 +7,7 @@ $_['text_success']     = 'Thành công: Bạn đã sửa đổi các công việ
 
 // Column
 $_['column_name']      = 'Tên công việc Trở lại';
-$_['column_action']    = 'Công việc';
+$_['column_action']    = 'Thao tác';
 
 // Entry
 $_['entry_name']       = 'Tên công việc Trở lại:';

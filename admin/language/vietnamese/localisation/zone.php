@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Khu vưc';
+$_['heading_title']          = 'Khu vực';
 
 // Text
 $_['text_success']           = 'Hoàn tất: Bạn đã sửa xong khu vực!';
@@ -9,7 +9,7 @@ $_['text_success']           = 'Hoàn tất: Bạn đã sửa xong khu vực!';
 $_['column_name']            = 'Tên khu vực';
 $_['column_code']            = 'Mã vùng';
 $_['column_country']         = 'Quốc Gia';
-$_['column_action']          = 'Công việc';
+$_['column_action']          = 'Thao tác';
 
 // Entry
 $_['entry_status']           = 'Tình trạng khu vực:';

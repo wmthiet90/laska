@@ -1,34 +1,36 @@
 <?php
 // Heading
-$_['heading_title']							= 'PayPal Standard';
+$_['heading_title']					 = 'PayPal Standard';
 
 // Text
-$_['text_payment']							= 'Payment';
-$_['text_success']							= 'Success: You have modified PayPal account details!';
-$_['text_pp_standard']						= '<a onclick="window.open(\'https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_authorization']					= 'Authorization';
-$_['text_sale']								= 'Sale';
+$_['text_payment']					 = 'Thanh toán';
+$_['text_success']					 = 'Thành Công: Bạn đã thay đổi thông tin tài khoản PayPal!';
+$_['text_pp_standard']				 = '<a onclick="window.open(\'https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal" title="PayPal" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorization']			 = 'Ủy quyền';
+$_['text_sale']						 = 'Bán';
 
 // Entry
-$_['entry_email']							= 'E-Mail:';
-$_['entry_test']							= 'Sandbox Mode:';
-$_['entry_transaction']						= 'Transaction Method:';
-$_['entry_geo_zone']						= 'Geo Zone:';
-$_['entry_status']							= 'Status:';
-$_['entry_sort_order']						= 'Sort Order:';
-$_['entry_pdt_token']						= 'PDT Token:<br/><span class="help">Payment Data Transfer Token is used for additional security and reliability. Find out how to enable PDT <a href="https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=developer/howto_html_paymentdatatransfer" alt="">here</a></span>';
-$_['entry_itemized']						= 'Itemize Products:<br/><span class="help">Show itemized list of products on Paypal invoice instead of store name.</span>';
-$_['entry_debug']							= 'Debug Mode:<br/><span class="help">Logs additional information to the system log.</span>';
-$_['entry_order_status']					= 'Order Status Completed:<br /><span class="help">This is the status set when the payment has been completed successfully.</span>';
-$_['entry_order_status_pending']			= 'Order Status Pending:<br /><span class="help">The payment is pending; see the pending_reason variable for more information. Please note, you will receive another Instant Payment Notification when the status of the payment changes to Completed, Failed, or Denied.</span>';
-$_['entry_order_status_denied']				= 'Order Status Denied:<br /><span class="help">You, the merchant, denied the payment. This will only happen if the payment was previously pending due to one of the following pending reasons.</span>';
-$_['entry_order_status_failed']				= 'Order Status Failed:<br /><span class="help">The payment has failed. This will only happen if the payment was attempted from your customers bank account.</span>';
-$_['entry_order_status_refunded']			= 'Order Status Refunded:<br /><span class="help">You, the merchant, refunded the payment.</span>';
-$_['entry_order_status_canceled_reversal']	= 'Order Status Canceled Reversal:<br /><span class="help">This means a reversal has been canceled; for example, you, the merchant, won a dispute with the customer and the funds for the transaction that was reversed have been returned to you.</span>';
-$_['entry_order_status_reversed']			= 'Order Status Reversed:<br /><span class="help">This means that a payment was reversed due to a chargeback or other type of reversal. The funds have been debited from your account balance and returned to the customer. The reason for the reversal is given by the reason_code variable.</span>';
-$_['entry_order_status_unspecified']		= 'Order Status Unspecified Error:';
+$_['entry_email']					 = 'E-Mail:';
+$_['entry_test']					 = 'Chế độ Sandbox:';
+$_['entry_transaction']				 = 'Chế độ giao dịch:';
+$_['entry_pdt_token']				 = 'PDT Token:<br/><span class="help">Payment Data Transfer Token is used for additional security and reliability. Find out how to enable PDT <a href="https://cms.paypal.com/us/cgi-bin/?&cmd=_render-content&content_ID=developer/howto_html_paymentdatatransfer" alt="">here</a></span>';
+$_['entry_debug']					 = 'Debug Mode:<br/><span class="help">Logs additional information to the system log.</span>';
+$_['entry_total']                    = 'Tổng cộng:<br /><span class="help">Kiểm tra tất cả các đơn hàng trước khi thanh toán được kích hoạt.</span>';
+$_['entry_canceled_reversal_status'] = 'Trạng thái hủy bỏ hoàn toàn:';
+$_['entry_completed_status']         = 'Trạng thái hoàn thành:';
+$_['entry_denied_status']			 = 'Trạng thái từ chối:';
+$_['entry_expired_status']			 = 'Trạng thái quá hạn:';
+$_['entry_failed_status']			 = 'Trạng thái thất bại:';
+$_['entry_pending_status']			 = 'Trạng thái chờ:';
+$_['entry_processed_status']		 = 'Trạng thái đã thực thi:';
+$_['entry_refunded_status']			 = 'Trạng thái trả lại:';
+$_['entry_reversed_status']			 = 'Trạng thái đảo lại:';
+$_['entry_voided_status']		     = 'Trạng thái hủy bỏ:';
+$_['entry_geo_zone']				 = 'Vùng tính thuế';
+$_['entry_status']					 = 'Trạng thái:';
+$_['entry_sort_order']				 = 'Sắp xếp đơn hàng:';
 
 // Error
-$_['error_permission']						= 'Warning: You do not have permission to modify payment PayPal!';
-$_['error_email']							= 'E-Mail required!';
+$_['error_permission']				 = 'Cảnh báo:Bạn không có quyền sửa đổi thanh toán PayPal!';
+$_['error_email']					 = 'Yêu cầu E-Mail!';
 ?>

@@ -1,18 +1,20 @@
 <?php
 // Heading
-$_['heading_title']      = 'Chủ đề chứng từ';
+$_['heading_title']      = 'Quản lý phiếu quà tặng - Vouchers';
 
 // Text
 $_['text_success']       = 'Thành công: Bạn đã sửa đổi các chủ đề chứng từ!';
 $_['text_image_manager'] = 'Quản lý hình ảnh';
+$_['text_browse']        = 'Duyệt file';
+$_['text_clear']         = 'Xóa Ảnh';
 
 // Column
-$_['column_name']        = 'Tên chứng từ';
-$_['column_action']      = 'Công việc';
+$_['column_name']        = 'Loại phiếu Quà tặng';
+$_['column_action']      = 'Thao tác';
 
 // Entry
-$_['entry_name']         = 'Tên chứng từ:';
-$_['entry_description']  = 'Mô tả chứng từ:';
+$_['entry_name']         = 'Loại phiếu Quà tặng:';
+$_['entry_description']  = 'Mô tả phiếu Quà tặng:';
 $_['entry_image']        = 'Hình:';
 
 // Error

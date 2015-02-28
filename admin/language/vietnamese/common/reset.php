@@ -9,7 +9,7 @@ $_['text_success']   = 'Thành công: mật khẩu của bạn đã được c�
 
 // Entry
 $_['entry_password'] = 'Mật khẩu:';
-$_['entry_confirm']  = 'Nhắc lại mật khẩu:';
+$_['entry_confirm']  = 'Xác nhận mật khẩu:';
 
 // Error
 $_['error_password'] = 'Mật khẩu phải có từ 5 đến 20 ký tự!';

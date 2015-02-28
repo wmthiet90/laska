@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Sales Report';
+$_['heading_title']     = 'Báo cáo bán hàng';
 
 // Text
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_year']         = 'Năm';
+$_['text_month']        = 'Tháng';
+$_['text_week']         = 'Tuần';
+$_['text_day']          = 'Ngày';
+$_['text_all_status']   = 'Tất cả các trạng thái';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_orders']     = 'No. Orders';
-$_['column_products']   = 'No. Products';
-$_['column_tax']        = 'Tax';
-$_['column_total']      = 'Total';
+$_['column_date_start'] = 'Ngày bắt đầu';
+$_['column_date_end']   = 'Ngày kết thúc';
+$_['column_orders']     = 'Số đơn hàng';
+$_['column_products']   = 'Số sản phẩm';
+$_['column_tax']        = 'Thuế';
+$_['column_total']      = 'Tổng cộng';
 
 // Entry
-$_['entry_date_start']  = 'Date Start:';
-$_['entry_date_end']    = 'Date End:';
-$_['entry_group']       = 'Group By:';
-$_['entry_status']      = 'Order Status:';
+$_['entry_date_start']  = 'Ngày bắt đầu:';
+$_['entry_date_end']    = 'Ngày kết thúc:';
+$_['entry_group']       = 'Theo nhóm:';
+$_['entry_status']      = 'Trạng thái đơn hàng:';
 ?>

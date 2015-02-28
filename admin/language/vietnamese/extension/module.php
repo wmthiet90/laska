@@ -8,8 +8,8 @@ $_['text_uninstall']   = 'Gỡ bỏ';
 
 // Column
 $_['column_name']      = 'Tên Mô-đun';
-$_['column_action']    = 'Công việc';
+$_['column_action']    = 'Thao tác';
 
 // Error
-$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi các mô-đuns!';
+$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi các mô-đun!';
 ?>

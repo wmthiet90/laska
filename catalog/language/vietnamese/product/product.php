@@ -10,7 +10,7 @@ $_['text_stock']        = 'Tình trạng:';
 $_['text_instock']      = 'Còn hàng';
 $_['text_price']        = 'Giá:'; 
 $_['text_tax']          = 'Trước Thuế:'; 
-$_['text_discount']     = '%s hoặc nhiều %s';
+$_['text_discount']     = '<b>Giá đặc biệt khi mua với số lượng từ %s: %s</b>';
 $_['text_option']       = 'Tùy chọn đang có';
 $_['text_qty']          = 'Số lượng:';
 $_['text_minimum']      = 'Sản phẩm này có số lượng đặt tối thiểu %s';
@@ -18,13 +18,24 @@ $_['text_or']           = '- Hoặc -';
 $_['text_reviews']      = '%s đánh giá'; 
 $_['text_write']        = 'Viết đánh giá';
 $_['text_no_reviews']   = 'Không có đánh giá cho sản phẩm này.';
+$_['text_on']           = ' bật ';
 $_['text_note']         = '<span style="color: #FF0000;">Lưu ý:</span> không hỗ trợ HTML!';
 $_['text_share']        = 'Chia sẻ';
 $_['text_success']      = 'Cám ơn bạn đã đánh giá. Đánh giá đã được gửi đến quản trị trước khi được chấp nhận.';
 $_['text_upload']       = 'Tập tin của bạn đã tải lên thành công!';
 $_['text_wait']         = 'Vui lòng đợi!';
-$_['text_tags']         = 'Tags:';
+$_['text_tags']         = 'Tags từ:';
 $_['text_error']        = 'Không có sản phẩm!';
+$_['text_payment_profile'] = 'Profiles thanh toán';
+
+$_['text_trial_description'] = '%s every %d %s(s) for %d payment(s) then';
+$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
+$_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
+$_['text_day'] = 'ngày';
+$_['text_week'] = 'tuần';
+$_['text_semi_month'] = 'nửa tháng một';
+$_['text_month'] = 'tháng';
+$_['text_year'] = 'năm';
 
 // Entry
 $_['entry_name']        = 'Tên bạn:';

@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Orders Report';
+$_['heading_title']         = 'Báo cáo đơn hàng của khách hàng';
 
 // Text
-$_['text_all_status']       = 'All Statuses';
+$_['text_all_status']       = 'Tất cả các trạng thái';
 
 // Column
-$_['column_customer']       = 'Customer Name';
+$_['column_customer']       = 'Tên khách hàng';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status';
-$_['column_orders']         = 'No. Orders';
-$_['column_products']       = 'No. Products';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_customer_group'] = 'Nhóm khách hàng';
+$_['column_status']         = 'Trạng thái';
+$_['column_orders']         = 'Số đơn hàng';
+$_['column_products']       = 'Số sản phẩm';
+$_['column_total']          = 'Tổng cộng';
+$_['column_action']         = 'Thao tác';
 
 // Entry
-$_['entry_date_start']      = 'Date Start:';
-$_['entry_date_end']        = 'Date End:';
-$_['entry_status']          = 'Order Status:';
+$_['entry_date_start']      = 'Ngày bắt đầu:';
+$_['entry_date_end']        = 'Ngày kết thúc:';
+$_['entry_status']          = 'Trạng thái đơn hàng:';
 ?>

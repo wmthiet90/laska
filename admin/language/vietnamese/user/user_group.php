@@ -6,11 +6,11 @@ $_['heading_title']    = 'Nhóm người dùng';
 $_['text_success']     = 'Hoàn tất: Bạn đã sửa xong nhóm người dùng!';
 
 // Column
-$_['column_name']      = 'Tên Nhóm';
-$_['column_action']    = 'Công việc';
+$_['column_name']      = 'Tên nhóm người dùng';
+$_['column_action']    = 'Thao tác';
 
 // Entry
-$_['entry_name']       = 'Tên nhóm:';
+$_['entry_name']       = 'Tên nhóm người dùng:';
 $_['entry_access']     = 'Quyền hạn:';
 $_['entry_modify']     = 'Thiết lập quyền hạn:';
 

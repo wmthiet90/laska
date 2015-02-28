@@ -8,9 +8,9 @@ $_['text_uninstall']    = 'Gỡ bỏ';
 
 // Column
 $_['column_name']       = 'Tổng đơn hàng';
-$_['column_status']     = 'Tình trạng';
+$_['column_status']     = 'Trạng thái';
 $_['column_sort_order'] = 'Thứ tự';
-$_['column_action']     = 'Công việc';
+$_['column_action']     = 'Thao tác';
 
 // Error
 $_['error_permission']  = 'Cảnh báo: Bạn không có quyền sửa đổi tổng đơn hàng!';

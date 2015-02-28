@@ -11,10 +11,10 @@ $_['text_success']    = 'Một email xác nhận đã được gửi từ địa
 // Entry
 $_['entry_email']     = 'Địa chỉ E-Mail:';
 $_['entry_password']  = 'Mật khẩu mới:';
-$_['entry_confirm']   = 'Nhắc lại:';
+$_['entry_confirm']   = 'Xác nhận:';
 
 // Error
-$_['error_email']     = 'Lỗi: Địa chỉ E-Mail không tìm thấy trong hồ sơ của chúng tôi, hãy thử lại!';
+$_['error_email']     = 'Lỗi: Tìm không thấy địa chỉ E-Mail trong hồ sơ của chúng tôi, hãy thử lại!';
 $_['error_password']  = 'Mật khẩu phải có từ 3 đến 20 ký tự!';
 $_['error_confirm']   = 'Mật khẩu và xác nhận mật khẩu không khớp!';
 ?>

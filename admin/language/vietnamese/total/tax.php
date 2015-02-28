@@ -8,7 +8,7 @@ $_['text_success']     = 'Thành công: bạn đã sửa tổng số thuế!';
 
 // Entry
 $_['entry_status']     = 'Tình trạng:';
-$_['entry_sort_order'] = 'Thứ tự sắp xếp:';
+$_['entry_sort_order'] = 'Thứ tự:';
 
 // Error
 $_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi tổng số thuế!';

@@ -1,12 +1,13 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Mua Phiếu Quà Tặng';
+$_['heading_title']    = 'Mua Phiếu Quà Tặng - Voucher';
 
 // Text
+$_[' text_account']    = 'Tài khoản';
 $_['text_voucher']     = 'Phiếu Quà Tặng';
-$_['text_description'] = 'Phiếu quà tặng này được gửi email đến người nhận sau khi bạn thanh toán.';
-$_['text_agree']       = 'Tôi hiểu phiếu quà tặng không thể hoàn tiền lại.';
-$_['text_message']     = '<p>Cám ơn bạn đã mua phiếu quà tặng! Khi bạn hoàn tất thanh toán người nhận sẽ nhận được email với hướng dẫn chi tiết cách sử dụng phiếu quà tặng để thanh toán mua hàng.</p>';
+$_['text_description'] = 'Phiếu quà tặng này được gửi email tới người nhận khi Bạn thanh toán.';
+$_['text_agree']       = 'Tôi hiểu phiếu Quà tặng không thể hoàn tiền lại.';
+$_['text_message']     = '<p>Cám ơn bạn đã mua phiếu Quà tặng! Khi bạn hoàn tất thanh toán người nhận sẽ nhận được email với hướng dẫn chi tiết cách sử dụng phiếu quà tặng để thanh toán mua hàng.</p>';
 $_['text_for']         = '%s Phiếu Quà Tặng cho %s';
 
 // Entry

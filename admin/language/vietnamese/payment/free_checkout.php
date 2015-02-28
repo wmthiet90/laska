@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']      = 'Free Checkout';
+$_['heading_title']      = 'Miễn phí thanh toán';
 
 // Text
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified Free Checkout payment module!';
+$_['text_payment']       = 'Thanh Toán';
+$_['text_success']       = 'Thành Công: Bạn đã thay đổi phương thức Miễn phí thanh toán!';
 
 // Entry
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_order_status'] = 'Trạng thái đơn hàng:';
+$_['entry_status']       = 'Trạng thái:';
+$_['entry_sort_order']   = 'Sắp xếp đơn hàng:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']   = 'Cảnh báo:Bạn không có quyền sửa đổi thanh toán Miễn phí thanh toán!';
 ?>

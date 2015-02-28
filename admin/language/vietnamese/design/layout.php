@@ -8,7 +8,7 @@ $_['text_default']      = 'Mặc định';
 
 // Column
 $_['column_name']       = 'Tên bố cục';
-$_['column_action']     = 'Công việc';
+$_['column_action']     = 'Thao tác';
 
 // Entry
 $_['entry_name']        = 'Tên bố cục:';

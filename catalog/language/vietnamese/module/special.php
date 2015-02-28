@@ -1,6 +1,6 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Đặc biệt';
+$_['heading_title'] = 'Khuyến mãi';
 
 // Text
 $_['text_reviews']  = 'Dựa trên %s đánh giá.'; 

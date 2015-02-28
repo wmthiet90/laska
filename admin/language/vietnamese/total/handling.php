@@ -9,7 +9,7 @@ $_['text_success']     = 'Thành công: Bạn đã thay đổi chi phí!';
 // Entry
 $_['entry_total']      = 'Tổng số đơn đặt hàng:';
 $_['entry_fee']        = 'Phí:';
-$_['entry_tax']        = 'thuế:';
+$_['entry_tax_class']        = 'thuế:';
 $_['entry_status']     = 'Tình trạng:';
 $_['entry_sort_order'] = 'Thứ tự:';
 

@@ -8,8 +8,8 @@ $_['text_uninstall']     = 'Gỡ bỏ';
 
 // Column
 $_['column_name']        = 'Tên nguồn cấp';
-$_['column_status']      = 'Tình trạng';
-$_['column_action']      = 'Công việc';
+$_['column_status']      = 'Trạng thái';
+$_['column_action']      = 'Thao tác';
 
 // Error
 $_['error_permission']  = 'Cảnh báo: Bạn không có quyền sửa đổi nguồn cung cấp!';

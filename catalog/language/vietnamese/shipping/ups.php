@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_title']           = 'United Parcel Service';
+$_['text_title']           = 'Dịch vụ UPS(United Parcel Service)';
 $_['text_weight']          = 'Trọng lượng:';
 $_['text_us_origin_01']    = 'UPS Next Day Air';
 $_['text_us_origin_02']    = 'UPS 2nd Day Air';

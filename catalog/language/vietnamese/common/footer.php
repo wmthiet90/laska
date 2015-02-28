@@ -14,5 +14,5 @@ $_['text_account']      = 'Tài khoản của tôi';
 $_['text_order']        = 'Lịch sử đơn hàng';
 $_['text_wishlist']     = 'Danh sách yêu thích';
 $_['text_newsletter']   = 'Thư thông báo';
-$_['text_powered']      = 'Powered By <a href="http://Opencartvn.com">Opencart Việt Nam</a><br /> %s &copy; %s';
+$_['text_powered']      = 'Bản quyền của <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
 ?>

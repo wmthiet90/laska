@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Tổng số';
+$_['heading_title']    = 'Tổng số Tiền Thanh toán';
 
 // Text
 $_['text_total']       = 'Tổng số đơn đặt hàng';

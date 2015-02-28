@@ -9,7 +9,7 @@ $_['text_success']      = 'Hoàn tất: Bạn đã sửa đổi ngôn ngữ!';
 $_['column_name']       = 'Tên ngôn ngữ';
 $_['column_code']       = 'Mã';
 $_['column_sort_order'] = 'Thứ tự';
-$_['column_action']     = 'Công việc';
+$_['column_action']     = 'Thao tác';
 
 // Entry
 $_['entry_name']        = 'Tên ngôn ngữ:';

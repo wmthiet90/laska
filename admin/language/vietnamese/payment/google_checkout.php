@@ -3,18 +3,18 @@
 $_['heading_title']      = 'Google Checkout';
 
 // Text
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified Google Checkout!';
+$_['text_payment']       = 'Thanh Toán';
+$_['text_success']       = 'Thành Công: Bạn đã thay đổi Google Checkout!';
 
 // Entry
 $_['entry_merchant_id']  = 'Merchant ID:';
 $_['entry_merchant_key'] = 'Merchant Key:';
-$_['entry_currency']     = 'Currency:';
-$_['entry_test']         = 'Test Mode:';
-$_['entry_status']       = 'Status:';
+$_['entry_currency']     = 'Tiền tệ:';
+$_['entry_test']         = 'Chế độ kiểm tra:';
+$_['entry_status']       = 'Trạng thái:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Google Checkout!';
-$_['error_merchant_id']  = 'Merchant ID Required!';
-$_['error_merchant_key'] = 'Merchant Key Required!';
+$_['error_permission']   = 'Cảnh báo: Bạn không có quyền chỉnh sửa Google Checkout!';
+$_['error_merchant_id']  = 'Yêu cầu Merchant ID!';
+$_['error_merchant_key'] = 'Yêu cầu Merchant Key!';
 ?>

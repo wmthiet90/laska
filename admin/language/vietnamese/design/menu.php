@@ -10,7 +10,7 @@ $_['text_default']      = 'Mặc định';
 $_['column_name']       = 'Menu Name';
 $_['column_store']      = 'Cửa hàng';
 $_['column_sort_order'] = 'Thứ tự';
-$_['column_action']     = 'Công việc';
+$_['column_action']     = 'Thao tác';
 
 // Entry
 $_['entry_name']        = 'tên trình đơn:';

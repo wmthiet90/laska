@@ -3,20 +3,20 @@
 $_['heading_title']     = 'Nhóm thuộc tính';
 
 // Text
-$_['text_success']      = 'Thành công: Bạn đã sửa đổi các nhóm thuộc tính!';
+$_['text_success']      = 'Thành công: Nhóm thuộc tính đã được thay đổi!';
 
 // Column
 $_['column_name']       = 'Tên nhóm thuộc tính';
-$_['column_sort_order'] = 'Sắp xếp thuộc tính';
-$_['column_action']     = 'công việc';
+$_['column_sort_order'] = 'Thứ tự';
+$_['column_action']     = 'Thao tác';
 
 // Entry
-$_['entry_name']        = 'Sắp xếp thuộc tính:';
-$_['entry_sort_order']  = 'Công việc:';
+$_['entry_name']        = 'Tên nhóm thuộc tính:';
+$_['entry_sort_order']  = 'Thứ tự:';
 
 // Error
-$_['error_permission']  = 'Cảnh báo: Bạn không có quyền sửa đổi các nhóm thuộc tính!';
+$_['error_permission']  = 'Cảnh báo: Bạn không được phép thay đổi các nhóm thuộc tính!';
 $_['error_name']        = 'Thuộc tính Tên nhóm phải có từ 3 và 64 ký tự!';
-$_['error_attribute']   = 'Cảnh báo: nhóm thuộc tính này không thể bị xóa khi nó hiện thời được gán Tới %s Những thuộc tính!';
-$_['error_product']     = 'Cảnh báo: nhóm thuộc tính này không thể bị xóa khi nó hiện thời được gán Tới %s Những sản phẩm!';
+$_['error_attribute']   = 'Cảnh báo: không thể xóa, vì nhóm thuộc tính này đang được kết nối với %s thuộc tính!';
+$_['error_product']     = 'Cảnh báo: không thể xóa, vì nhóm thuộc tính này đang được kết nối với %s sản phẩm!';
 ?>
