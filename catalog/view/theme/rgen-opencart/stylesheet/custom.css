@@ -4,6 +4,7 @@
 }
 .head1 .links-bar {
 	background-color: #047A96;
+	visibility: hidden;
 }
 .head1 .links-bar .links a {
 	font-weight: bold;
