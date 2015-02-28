@@ -2,7 +2,47 @@
 	background: #00AFF0 url(images/bg2.jpg) no-repeat top center;
 	background-size: 100% 100%;
 }
-
+.head1 .links-bar {
+	background-color: #047A96;
+}
+.head1 .links-bar .links a {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.head1 .links-bar .links a:hover {
+	color: #fff;
+}
+.head1 #header .top-options {
+	display: none;
+	visibility: hidden;
+}
+.head1 #header #search {
+	top: 12px;
+}
+.button, .sml-button {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-khtml-border-radius: 0;
+	border-radius: 0;
+}
+.product-info .description {
+	margin-bottom: 10px;
+}
+.breadcrumb a {
+	color: #047A96;
+	font-weight: bold;
+}
+.breadcrumb a:last-child {
+	cursor: default;
+	pointer-events: none;
+	color: #000;
+}
+.breadcrumb a:hover {
+	color: #000;
+}
+.breadcrumb span {
+	color: #000;
+}
 /*===========================================*/
 /*	DESKTOP LAYOUT 
 /*===========================================*/

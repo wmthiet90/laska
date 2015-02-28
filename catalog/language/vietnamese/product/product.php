@@ -36,6 +36,7 @@ $_['text_week'] = 'tuần';
 $_['text_semi_month'] = 'nửa tháng một';
 $_['text_month'] = 'tháng';
 $_['text_year'] = 'năm';
+$_['text_zoom'] = 'Phóng to';
 
 // Entry
 $_['entry_name']        = 'Tên bạn:';
