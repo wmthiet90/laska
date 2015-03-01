@@ -5,6 +5,10 @@
 .head1 .links-bar {
 	background-color: #047A96;
 	visibility: hidden;
+	margin-bottom: 0;
+}
+.head1 .links-bar #welcome {
+	display: none;
 }
 .head1 .links-bar .links a {
 	font-weight: bold;
@@ -43,6 +47,15 @@
 }
 .breadcrumb span {
 	color: #000;
+}
+#menu .menu-mega .menu-grid .menu-main, 
+#menu .cat-mega .cat-grid .cat-main {
+	text-transform: uppercase;
+	border-bottom: none;
+}
+#menu .menu-mega .menu-mg-data, 
+#menu .cat-mega .cat-mg-data {
+	margin-bottom: 10px;
 }
 /*===========================================*/
 /*	DESKTOP LAYOUT 
