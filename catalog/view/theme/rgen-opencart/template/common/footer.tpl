@@ -15,7 +15,7 @@
 
 		<footer id="footer">
 			<?php if ($informations) { ?>
-			<div class="column">
+			<div class="column" style="width: 25%;">
 				<h3 class="header-3"><?php echo $text_information; ?></h3>
 				<ul>
 					<?php foreach ($informations as $information) { ?>
@@ -24,15 +24,15 @@
 				</ul>
 			</div>
 			<?php } ?>
-			<div class="column">
+			<div class="column" style="width: 25%;">
 				<h3 class="header-3"><?php echo $text_service; ?></h3>
 				<ul>
 					<li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
-					<li><a href="<?php echo $return; ?>"><?php echo $text_return; ?></a></li>
+					<li style="display: none;"><a href="<?php echo $return; ?>"><?php echo $text_return; ?></a></li>
 					<li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
 				</ul>
 			</div>
-			<div class="column">
+			<div class="column" style="display: none;">
 				<h3 class="header-3"><?php echo $text_extra; ?></h3>
 				<ul>
 					<li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
@@ -41,7 +41,7 @@
 					<li><a href="<?php echo $special; ?>"><?php echo $text_special; ?></a></li>
 				</ul>
 			</div>
-			<div class="column">
+			<div class="column" style="display: none;">
 				<h3 class="header-3"><?php echo $text_account; ?></h3>
 				<ul>
 					<li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
@@ -52,7 +52,7 @@
 			</div>
 			
 			<?php if ($this->config->get('FT_Contact_status') == '1') { ?>
-			<div class="column contact-info">
+			<div class="column contact-info" style="float: right;">
 				<ul>
 					<?php if ($this->config->get('FT_Contact_phStatus') == '1') { ?>
 					<li>

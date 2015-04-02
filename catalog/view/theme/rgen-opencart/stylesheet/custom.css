@@ -1,5 +1,6 @@
 #header-wrapper {
-	background: #00AFF0 url(images/bg2.jpg) no-repeat top center;
+	/*background: #00AFF0 url(images/bg2.jpg) no-repeat top center;*/
+	background: #66D2FA;
 	background-size: 100% 100%;
 }
 .head1 .links-bar {
@@ -57,6 +58,17 @@
 #menu .cat-mega .cat-mg-data {
 	margin-bottom: 10px;
 }
+
+.price {
+	display: none !important;
+}
+.buy-options {
+	display: none !important;
+}
+.product-info .cart {
+	display: none !important;
+}
+
 /*===========================================*/
 /*	DESKTOP LAYOUT 
 /*===========================================*/
